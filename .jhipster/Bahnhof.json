@@ -1,0 +1,24 @@
+{
+  "applications": "*",
+  "changelogDate": "20230202154843",
+  "dto": "no",
+  "embedded": false,
+  "entityTableName": "bahnhof",
+  "fields": [
+    {
+      "fieldName": "bahnhofsNr",
+      "fieldType": "Integer"
+    },
+    {
+      "fieldName": "bahnhofsName",
+      "fieldType": "String"
+    }
+  ],
+  "fluentMethods": true,
+  "jpaMetamodelFiltering": false,
+  "name": "Bahnhof",
+  "pagination": "no",
+  "readOnly": false,
+  "relationships": [],
+  "service": "serviceImpl"
+}
