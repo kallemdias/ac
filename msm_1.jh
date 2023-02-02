@@ -1,0 +1,8 @@
+
+entity Bahnhof {
+	bahnhofsNr Integer,
+    bahnhofsName String
+}
+
+service all with serviceImpl
+
